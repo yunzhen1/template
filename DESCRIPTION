@@ -4,7 +4,7 @@ Title: [A title of the package]
 Version: [Major version. minor version. bug version]
 Date: 2025-03-07
 Author: Amy Liang
-Maintainer: yunzhen.liang@vanderbilt.edu
+Maintainer: Amy Liang <yunzhen.liang@vanderbilt.edu>
 Description: More about what it does (maybe more than one line).
 License: GPL (>= 2)
 Encoding: UTF-8
