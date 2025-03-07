@@ -1,7 +1,7 @@
-Package: [THE NAME of the package here]
+Package: NAME OF THE FUNCTION
 Type: Package
-Title: [A title of the package]
-Version: [Major version. minor version. bug version]
+Title: TITLE of the package
+Version: [0.0.0]
 Date: 2025-03-07
 Author: Amy Liang
 Maintainer: Amy Liang <yunzhen.liang@vanderbilt.edu>
